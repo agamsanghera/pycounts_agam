@@ -1,6 +1,9 @@
 # pycounts_agam
 [![Documentation Status](https://readthedocs.org/projects/pycounts-agam/badge/?version=latest)](https://pycounts-agam.readthedocs.io/en/latest/?badge=latest)
 
+[![codecov](https://codecov.io/gh/agamsanghera/pycounts-agam/graph/badge.svg?token=0KMZ9OEBGI)](https://codecov.io/gh/agamsanghera/pycounts_agam)
+
+
 Calculate word counts in a text file!
 
 ## Installation
